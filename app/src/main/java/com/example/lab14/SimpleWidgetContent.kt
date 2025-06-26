@@ -63,3 +63,4 @@ class SimpleWidgetContent : GlanceAppWidget() {
         }
     }
 }
+
