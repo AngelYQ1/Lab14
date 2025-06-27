@@ -50,6 +50,8 @@ dependencies {
     implementation ("androidx.glance:glance-material3:1.1.0")
     // For interop APIs with Material 2
     implementation ("androidx.glance:glance-material:1.1.0")
+
+    implementation ("androidx.compose.ui:ui-unit:1.6.0")
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
